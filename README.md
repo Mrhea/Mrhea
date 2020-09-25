@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-If you happen to come across this occasionally active page and are looking to hire a new graduate, please send me a message. 
 
 <!--
 **Mrhea/Mrhea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
